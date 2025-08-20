@@ -1,5 +1,20 @@
 # escape-menu
-Escape menu pour vos serveur DarkRP
+🎮 Escape Menu 🎮
+
+Un menu simple, moderne et épuré pour améliorer l’expérience de jeu sur votre serveur DarkRP.
+Avec son design sombre et élégant, ce menu permet :
+
+▶️ Reprendre la partie rapidement
+
+⚙️ Accéder aux paramètres essentiels du serveur
+
+❌ Quitter facilement en un clic
+
+Minimaliste et efficace, il offre aux joueurs une interface claire sans surcharger l’écran, tout en gardant une touche professionnelle.
+Idéal pour donner une identité unique à votre serveur.
+
+
+
 
 Addon de base : https://aide-serveur.fr/ressources/naruto-escape-menu.3875/
 
